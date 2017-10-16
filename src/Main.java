@@ -1,3 +1,4 @@
+數字拆解
 import java.util.Scanner;
 
 public class Main {
